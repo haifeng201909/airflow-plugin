@@ -19,7 +19,7 @@ class NativeLogService:
 
         # 设置文件 handler 日志等级
         file_handler.setLevel(logging.DEBUG)
-        #
+        # 设置 stream handler 日志级别
         stream_handler.setLevel(logging.INFO)
 
         # 设置日志输出格式
