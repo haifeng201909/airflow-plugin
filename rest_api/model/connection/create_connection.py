@@ -1,0 +1,2 @@
+class CreateResponse:
+    pass
